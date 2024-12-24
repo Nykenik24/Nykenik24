@@ -5,10 +5,8 @@ outdated!
 ## About me
 I am Nykenik24, i make little `lua` and `Love2d` projects, like libraries or small games.\
 \
-I **love**: 
-- Making 10 "Update README.md" commits, but only changing 4 words.
-- Making 1-2 commits saying "Made little changes in *file*" and adding 300 lines.
-- Using `date "+%H:%M:%S %d/%m/%y"` if i don't know what message to use in the commit.
+My current main project: 
+[Love2d Tools](https://github.com/Nykenik24/love2d-tools) 
 
 ## Links
 - [My blog](https://Nykenik24.github.io/)  <!-- i need to post there -->
