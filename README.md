@@ -9,5 +9,5 @@ My current main project:
 [Love2d Tools](https://github.com/Nykenik24/love2d-tools) 
 
 ## Links
-- [My blog](https://Nykenik24.github.io/)  <!-- i need to post there -->
+- [My website](https://Nykenik24.github.io/)  <!-- i need to post there -->
 - [Love2d Tools](https://github.com/Nykenik24/love2d-tools)
