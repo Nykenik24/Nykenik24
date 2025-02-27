@@ -3,10 +3,9 @@
 outdated!
 -->
 ## About me
-I am Nykenik24, i make little `lua` and `Love2d` projects, like libraries or small games.\
+I am Nykenik, and i like coding.\
 \
-My current main project: [GlideUI](https://github.com/Nykenik24/GlideUI)
-<!--[Love2d Tools](https://github.com/Nykenik24/love2d-tools)-->
+My current main project: [Zap Game Engine](https://github.com/Nykenik24/Zap)
 
 ## Links
 - [My website](https://Nykenik24.github.io/)
