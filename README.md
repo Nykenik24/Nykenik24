@@ -3,9 +3,7 @@
 outdated!
 -->
 ## About me
-I am Nykenik, and i like coding.\
-\
-My current main project: [Zap Game Engine](https://github.com/Nykenik24/Zap)
+I am Nykenik, and i like coding.
 
 ## Links
 - [My website](https://Nykenik24.github.io/)
