@@ -35,9 +35,9 @@ Soy Nykenik, y programo como hobby:
 - Algunas cosas low-level *(la mayoria hechas en C)*.
 
 ## Herramientas que uso
-- **OS & Desktop**: Fedora Linux 41 con KDE Plasma.
-- **Text editor**: NeoVim con AstroVim.
-- **Languages**:
+- **SO & Escritorio**: Fedora Linux 41 con KDE Plasma.
+- **Editor de texto**: NeoVim con AstroVim.
+- **Lenguajes**:
   - Lua
   - C ***(me encanta)***
   - C++ ***(me encanta, pero menos que C puro)***
