@@ -1,4 +1,5 @@
-<img width="1279" height="719" alt="image" src="https://github.com/user-attachments/assets/a579bb7a-473e-4625-9604-88b6c2dd3621" />
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/6c3dff18-1d77-47a6-9915-5f5d83c78136" />
+
 
 # Me
 I love programming (specially in C, Go or Lua) and Linux, nothing more to say.
